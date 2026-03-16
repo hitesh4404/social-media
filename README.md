@@ -16,33 +16,24 @@ The React Compiler is not enabled on this template because of its impact on dev 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 Features
 
-User Registration and Login
+## User Registration and Login
 
 Create and View Posts
-
 Like and Comment on Posts
-
 Explore Posts from Other Users
-
 User Profile Page
-
 View Posts by Specific User
-
 Real-time UI Updates
-
 Responsive Design
-
 Tech Stack
 
-React.js – Frontend Framework
+## React.js – Frontend Framework
 
 Axios – API Requests
-
 CSS – Styling
-
 JavaScript (ES6) – Logic and Functionality
 
-Project Structure
+##Project Structure
 frontend
 │
 ├── public
@@ -66,9 +57,9 @@ frontend
 │   └── index.js
 │
 └── package.json
-Installation
+
+## Installation
 1 Clone the repository
-git clone https://github.com/your-username/social-media-frontend.git
 2 Navigate to the project folder
 cd social-media-frontend
 3 Install dependencies
