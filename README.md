@@ -34,75 +34,43 @@ CSS – Styling
 JavaScript (ES6) – Logic and Functionality
 
 ##Project Structure
-frontend
-│
-├── public
-│   └── index.html
-│
-├── src
-│   ├── components
-│   │   ├── Navbar
-│   │   ├── PostCard
-│   │   └── CommentSection
-│   │
-│   ├── pages
-│   │   ├── Home
-│   │   ├── Explore
-│   │   ├── Profile
-│   │   ├── Login
-│   │   └── Register
-│   │
-│   ├── pagesCSS
-│   ├── App.js
-│   └── index.js
-│
-└── package.json
+<img width="335" height="482" alt="image" src="https://github.com/user-attachments/assets/57a20ebc-da3d-4af4-9cc7-f42027a25e28" />
+
 
 ## Installation
-1 Clone the repository
-2 Navigate to the project folder
-cd social-media-frontend
-3 Install dependencies
+1 Navigate to the project folder
+cd social-media
+2 Install dependencies
 npm install
-4 Start the development server
+3 Start the development server
 npm start
 
-The application will run on:
-
-http://localhost:3000
+## The application will run on:
+http://localhost:port
 Backend API
-
 This frontend connects to a backend API built using Node.js and Express.
-
 Make sure the backend server is running before starting the frontend.
 
-Example API base URL:
+## Example API base URL:
 
 http://localhost:5000/api
 Screens
-
 Home Feed
-
 Explore Page
-
 User Profile
-
 Post View
-
 Login / Register
-
 Future Improvements
-
 Real-time messaging
-
 Notifications system
-
 Image upload for posts
-
 Follow / Unfollow users
-
 Dark mode UI
 
-Author
+## SCREENSHOTS
+
+
+
+## Author
 
 Hitesh Patil
